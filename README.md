@@ -28,4 +28,4 @@ yarn lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![Projeye ait ekran görüntüsü](week4-assignment-onurozbey\web-client-vue3\src\screenshots\week4-project.png)
+![Projeye ait ekran görüntüsü](https://github.com/171-Logo-Siber-FullStack-Bootcamp/week4-assignment-onurozbey/blob/main/web-client-vue3/src/screenshots/week4-project.png)
